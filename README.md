@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ewangoldsack
+- 👀 I’m interested in Computer science (AI/ML), Data science, mathematics, statistics, Physics, Chess
+- 🌱 I’m currently studying MSc in Computer Science with focus on Artificial Intelligence 
+- 💞️ I’m looking to collaborate on projects 
