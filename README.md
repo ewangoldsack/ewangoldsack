@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ewangoldsack
-- 👀 I’m interested in Computer science (AI/ML), Data science, mathematics, statistics, Physics, Chess
-- 🌱 I’m currently studying MSc in Computer Science with focus on Artificial Intelligence 
-- 💞️ I’m looking to collaborate on projects 
+Im Ewan Goldsack, a Machine Learning Engineering / Data Science student with a strong background in Mathematics, statistics, computer science and finance. I have a BSc in Accounting and Finance graduating with a 2:1 upper class and currently studying a MSc in Computer Science with a strong focus on Machine Learning and Artificial Intelligence at University of York with a passion for Machine Learning and and Data Analytics.
