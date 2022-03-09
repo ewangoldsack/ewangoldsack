@@ -5,6 +5,9 @@ Python (NumPy, Pandas, TensorFlow, scikit-learn, matploitlib)
 Java (Apache Commons/Mahout, WEKA, deeplearning4j, SparkMlib)
 SQL (SparkSQL, NoSQL, MySQL)
 
+Machine Learning Stack: 
+SVMs, Random Forests, KNNs, Decision Trees, Hadoop, SHAP Analysis, Genetic Algorithms
+
 Certifcations:
 Azure Artificial Intelligence Fundamentals certification
 Azure Data Fundamentals certification
